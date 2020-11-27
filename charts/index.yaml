@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  wrong-image-name:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-11-27T22:17:48.864324+08:00"
+    description: A Helm chart for Kubernetes
+    digest: ec610cbe64b2b0da68363bfe08611451fb5fbe7dc78fd872379050c1fb240c83
+    name: wrong-image-name
+    type: application
+    urls:
+    - wrong-image-name-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-11-27T22:17:48.862305+08:00"
